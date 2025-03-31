@@ -56,7 +56,7 @@ function App() {
     <div className="flex items-center justify-center h-screen bg-black">
       {/* Hidden image for Open Graph (WhatsApp preview) */}
       <img
-        src="https://www.shutterstock.com/image-photo/indias-prime-minister-narendra-modi-before-2441612935" // Use the imported local image
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Shri_Narendra_Modi%2C_Prime_Minister_of_India_%283x4_cropped%29.jpg" // Use the imported local image
         alt="OG Preview"
         style={{ display: "none" }} // Keeping it hidden for Open Graph
       />
